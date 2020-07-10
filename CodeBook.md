@@ -15,7 +15,7 @@ In our analysis, we join the training and the testing data into one dataset. Fur
 
 ## Files
 
-The script stores the tidydataset, tidybyactivity, and tidybysubject datasets in the files tidydataset.txt, tidybyactivity.txt, and tidybysubject.txt. The folder UCI HAR Dataset contains the data from the link above.
+The script stores the tidydataset, tidybyactivity, and tidybysubject datasets in the files tidydataset.txt, tidybyactivity.txt, and tidybysubject.txt. The script is stored in the file run_analysis.R. In order for the script to run, the data from https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip has to be stored in the same directory as the script.
 
 ## Variables
 
